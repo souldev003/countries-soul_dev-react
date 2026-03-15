@@ -1,0 +1,15 @@
+.country {
+    border: 2px solid lightsalmon;
+    border-radius: 25px;
+    margin: 15px;
+    padding: 25px;
+    text-align: center;
+}
+
+.visited-country {
+    background-color: lightslategrey;
+}
+
+.image {
+    max-width: 100%;
+}
